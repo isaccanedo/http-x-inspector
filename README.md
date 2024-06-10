@@ -1,4 +1,4 @@
-# 🩻 HTTP X-Inspector: Catch Every Request Detail
+# 🖥️ HTTP X-Inspector: Catch Every Request Detail
 
 Think of HTTP X-Inspector as your go-to buddy for sniffing out what's happening with your app's web calls. It grabs every bit of the request—headers, where it's going, what it's carrying—and lays it out for you to see what's up.
 
